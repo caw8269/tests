@@ -8,7 +8,7 @@
             "name": "run main.py",
             "type": "python-web-wasm",
             "request": "launch",
-            "program": "${file}",
+            "program": "main.py",
             "console": "integratedTerminal"
         }
 
