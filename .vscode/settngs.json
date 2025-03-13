@@ -1,0 +1,5 @@
+{
+    "terminal.intergrated.defaultProfile.osx": "zsh",
+    "terminal.intergrated.defaultProfile.linux": "bash",
+    "terminal.intergrated.defaultProfile.windows": "PowerShell"
+}
